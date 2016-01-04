@@ -1,0 +1,1 @@
+/Users/hGen/Documents/projects/fzf/shell/key-bindings.fish
