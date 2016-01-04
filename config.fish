@@ -2,13 +2,13 @@
 set fish_greeting 'welcome dude...'
 
 # general abbreviations
-abbr desk '/Users/hGen/Desktop/'
-abbr doc '/Users/hGen/Documents/'
-abbr down '/Users/hGen/Downloads/'
+abbr desk '~/Desktop/'
+abbr doc '~/Documents/'
+abbr down '~/Downloads/'
 abbr vol '/Volumes/'
 abbr fishfolder '~/.config/fish/'
 abbr clera 'clear'
-abbr vimrc 'vim /Users/hGen/.vimrc'
+abbr vimrc 'vim ~/.vimrc'
 abbr df 'df -h'
 abbr mkae 'make'
 abbr pingg 'ping -c 3 google.com'

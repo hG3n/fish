@@ -5,7 +5,7 @@ end
 function fish_prompt
   # print empty line
   echo ''
-  set_color red
+  set_color --bold red
   printf '%s' (whoami)
   set_color normal
   printf ': '
