@@ -1,3 +1,6 @@
 #ignore fish history
 ./fish_history
 ./fishd*
+functions/fzf_key_bindings.fish
+
+fish_history
